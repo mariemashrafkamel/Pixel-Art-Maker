@@ -1,3 +1,3 @@
 # Pixel-Art-Maker
 ## Pixel Art Maker Lab for Front-End Development Track Udacity Course
-### using Javascript - HTML ans CSS
+### using Javascript - HTML and CSS
